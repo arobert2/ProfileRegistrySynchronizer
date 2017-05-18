@@ -1,3 +1,5 @@
+NOTE: This is currently untested but should work.
+
 This script will load each NTUSER.DAT file within C:\users, import the reg file you provide it, then unload the ntuser.dat file.
 
 registry files must match the name of the hive expected by the script. To use do the following.
